@@ -73,6 +73,7 @@ int main(){
     fast_cin();
     ll t;
     t=1;
+    int k = 2;
     while(t--){
         subarraySum();
     }
