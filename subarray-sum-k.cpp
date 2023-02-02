@@ -72,7 +72,7 @@ public:
 int main(){
     fast_cin();
     ll t;
-    cin >> t;
+    t=1;
     while(t--){
         subarraySum();
     }
