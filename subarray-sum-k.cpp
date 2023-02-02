@@ -74,6 +74,7 @@ int main(){
     ll t;
     t=1;
     int k = 2;
+    int m = t-k;
     while(t--){
         subarraySum();
     }
