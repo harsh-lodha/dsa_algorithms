@@ -12,6 +12,7 @@ using namespace std;
 #define fast_cin() ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL)
 #endif // /*define*/
 
+//sift up insert
 int* insert(int x, int& sz, int* abc)
 {
     if(sz%10 == 0){
@@ -38,6 +39,7 @@ int* insert(int x, int& sz, int* abc)
     return abc;
 }
 
+//sift down remove
 int remove_min(int& sz, int abc[])
 {
     if(sz<=0)
