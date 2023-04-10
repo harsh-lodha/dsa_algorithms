@@ -9,6 +9,8 @@
         "unordered_set": "cpp",
         "vector": "cpp",
         "ostream": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "cstdlib": "cpp",
+        "algorithm": "cpp"
     }
 }
